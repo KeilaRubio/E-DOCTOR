@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D5687</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#F78836</color>
+    <color name="background_layout_gris">#EEEEEE</color>
+    <color name="blanco">#ffffff</color>
+    <color name="negro_app">#2F292A</color>
+    <color name="texto_error">#C21B16</color>
+    <color name="fondo_gris">#F5F5F5</color>
+    <color name="color_link">#0288D1</color>
+    <color name="gris">#f5f5f5</color>
+</resources>

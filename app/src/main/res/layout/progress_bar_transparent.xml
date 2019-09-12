@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relative_layout_progress"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/Progress"
+    android:clickable="true"
+    android:visibility="gone"
+    android:background="#80000000">
+    <ProgressBar
+        style="@style/estilosProgreesBar"
+        android:id="@+id/circular_progress_bar"
+        android:visibility="visible"/>
+</RelativeLayout>
