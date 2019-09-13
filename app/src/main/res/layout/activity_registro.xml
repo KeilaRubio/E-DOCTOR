@@ -8,6 +8,13 @@
                 android:layout_height="match_parent"
                 tools:context=".Registro">
     <include layout="@layout/toolbar"/>
+    <ImageView
+            android:id="@+id/image_atras"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:background="@drawable/ic_saeta_izquierda"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="16dp"/>
 
     <ScrollView
             android:layout_width="match_parent"

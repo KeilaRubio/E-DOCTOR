@@ -26,7 +26,7 @@ android {
             buildConfigField "String", "CLIENT_ID", '"7"'
             buildConfigField "String", "CLIENT_SECRET", '"fCNXd6skqFAEzjvwaYrdhKJ5tqaEzAek"'
             buildConfigField "String", "URL_REST_SERVER", '"http://nimp_pruebas.develop.geaecuador.ec/api/v1/proyectos/"'
-//            buildConfigField "String", "HEADER_APP_KEY", '"TArs_UESGLz2ZeRnhAucMeYgVRZP5xvlUA1X6xT5"'
+            buildConfigField "String", "HEADER_APP_KEY", '"TArs_UESGLz2ZeRnhAucMeYgVRZP5xvlUA1X6xT5"'
 
         }
     }

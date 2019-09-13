@@ -64,5 +64,9 @@
     <string name="registro_mensaje">Si retrocedes antes de completar tu información, perderás tus cambios.</string>
     <string name="registro_ok_entiendo">Ok, entendido</string>
     <string name="cambiar_contrasenia_advertencia">Advertencia</string>
+    <string name="login_campo_obligatorio">Este campo es necesario.</string>
+    <string name="recuperar_contrasena_enviaremos_codigo_recuperacion">Enviaremos un código a tu correo para validar tu cuenta.</string>
+    <string name="registro_correo_no_valido">El correo que ingresaste no es válido.</string>
+    <string name="registro_correo_ok">Ok</string>
 
 </resources>
